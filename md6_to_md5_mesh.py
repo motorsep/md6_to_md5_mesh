@@ -1,7 +1,4 @@
-""" 
- * This file is part of the XXX distribution (https://github.com/xxxx or http://xxx.github.io).
- * Copyright (c) 2015 Liviu Ionescu.
- * 
+"""  
  * This program is free software: you can redistribute it and/or modify  
  * it under the terms of the GNU General Public License as published by  
  * the Free Software Foundation, version 2.
